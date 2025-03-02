@@ -28,10 +28,13 @@
 To start the game, run:
 ```sh
 npm start
+```
+## Screenshots
+https://ibb.co/hRBfHfJL
+https://ibb.co/GvktDf3D
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Developed By
+## Developed By
 Harshvardhan
-
